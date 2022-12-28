@@ -1,1 +1,0 @@
-Opción de estadísticas de ganancias y perdidas finiquitada
