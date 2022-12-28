@@ -1,0 +1,1 @@
+Permite eliminar el metodo de pago
